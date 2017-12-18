@@ -15,3 +15,22 @@ nose
 pillow
 
 opencv-python
+
+# from docker image
+# docker pull udacity/carnd-term1-starter-kit
+
+# opencv3, same as opencv-python
+scikit-learn
+scikit-image
+
+h5py
+eventlet
+flask-socketio
+seaborn
+
+ffmpeg-normalize
+imageio==2.1.2
+pyqt5
+moviepy
+tensorflow==0.12.1
+keras==1.2.1
