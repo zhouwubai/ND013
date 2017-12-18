@@ -1,0 +1,17 @@
+# install scipy
+numpy
+scipy
+matplotlib
+
+# latest ipython 6.0+ does not support python 2.7
+ipython
+
+jupyter
+pandas
+sympy
+nose
+
+# install pillow for preprocessing other than png image
+pillow
+
+opencv-python
